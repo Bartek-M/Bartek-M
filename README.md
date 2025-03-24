@@ -4,7 +4,7 @@ I'm Bartek, a software engineer focused on crafting robust, efficient code and d
 
 ## 🛠️ Tools I use
 
-**Languages:** `Python` `Golang` `TypeScript` `HTML/CSS` `PHP` `C++`
+**Languages:** `Python` `TypeScript` `HTML/CSS` `Golang` `Rust` `PHP` `C++`
 
 **Frameworks:** `Django` `Flask` `React` `Bootstrap` `Discord.js`
 
