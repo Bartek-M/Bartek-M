@@ -11,3 +11,5 @@ I'm Bartek, a software engineer focused on crafting robust, efficient code and d
 **DevOps:** `Git` `GitHub` `Docker` `Azure`
 
 <!-- GitAds-Verify: 12CN88M28EGA5C8E1CHPK69ITBFQSLLO -->
+## GitAds Sponsored
+[![Sponsored by GitAds](https://gitads.dev/v1/ad-serve?source=bartek-m/bartek-m@github)](https://gitads.dev/v1/ad-track?source=bartek-m/bartek-m@github)
