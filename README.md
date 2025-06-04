@@ -10,4 +10,4 @@ I'm Bartek, a software engineer focused on crafting robust, efficient code and d
 
 **DevOps:** `Git` `GitHub` `Docker` `Azure`
 
-<!-- GitAds-Verify: KNVW4PW52Y2CPKBPZIQNI7SUHDKXGWT8 -->
+<!-- GitAds-Verify: 12CN88M28EGA5C8E1CHPK69ITBFQSLLO -->
