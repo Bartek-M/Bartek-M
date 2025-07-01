@@ -9,3 +9,9 @@ I'm Bartek, a software engineer focused on crafting robust, efficient code and d
 **Frameworks:** `Django` `Flask` `React` `Bootstrap` `Discord.js`
 
 **DevOps:** `Git` `GitHub` `Docker` `Azure`
+
+<br/>
+
+## 🏦 GitAds Sponsored
+
+<!-- GitAds-Verify: TGSKOR6Y2KKNTGOUBVQMGXGMFFJIP6ZO -->
